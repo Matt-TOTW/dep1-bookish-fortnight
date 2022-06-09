@@ -1,6 +1,6 @@
 {
   "name": "dep1-bookish-fortnight",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Matt-TOTW/dep1-bookish-fortnight/issues"
   },
-  "homepage": "https://github.com/Matt-TOTW/dep1-bookish-fortnight#readme"
+  "homepage": "https://github.com/Matt-TOTW/dep1-bookish-fortnight#readme",
+  "dependencies": {
+    "dep2-cuddly-bassoon": "^1.0.0"
+  }
 }
